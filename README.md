@@ -6,6 +6,10 @@ Projeto criado em período do seletivo na Honda.
 
 No projeto utilizei ferramentas, que auxiliam na elaboração do projeto.
 
+### `npm install`
+
+Para baixar todas dependências
+
 ### `npm start`
 
 Este codigo é usado para rodar o site no browser.
