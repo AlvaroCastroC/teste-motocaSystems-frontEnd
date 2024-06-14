@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "5338",
+      "codigo": "#0001",
+      "modelo": "HONDA",
+      "valor": "15.000.00",
+      "cor": "BRANCA",
+      "status": "Em estoque"
+    },
+    {
+      "codigo": "#0002",
+      "modelo": "HONDA 500x",
+      "valor": "50.000.00",
+      "cor": "vermelha",
+      "status": "Sem estoque",
+      "id": "3dff"
+    },
+    {
+      "id": "9b96",
+      "codigo": "#0003",
+      "modelo": "HONDA CB 300F TWISTER",
+      "valor": "30.000.00",
+      "cor": "PRETA",
+      "status": "Em trânsito"
+    }
+  ]
+}
